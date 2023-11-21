@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html, body{
+  color: white;
+  background-color: #1b1b32;
+  font-family: Llato, sans-serif;
+  margin-top: 40px;
+}
